@@ -1,13 +1,8 @@
 {
-  // Required
   "name": "Command-Click Fix",
-  "version": "1.0.0",
-
-  // Recommended
+  "version": "1.0.1",
   "description": "Makes Command-Click open a new tab on pages that don't do it properly.",
   "icons": { "128": "icon.png" },
-
-  // Add any of these that you need
   "content_scripts": [
     {
   	  "matches": ["http://*/*", "https://*/*"],
