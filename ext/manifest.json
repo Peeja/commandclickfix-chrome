@@ -5,9 +5,9 @@
   "icons": { "128": "icon.png" },
   "content_scripts": [
     {
-  	  "matches": ["http://*/*", "https://*/*"],
-  	  "js": ["jquery-1.4.2.min.js", "commandclickfix.js"],
-  	  "run_at": "document_start"
+      "matches": ["http://*/*", "https://*/*"],
+      "js": ["jquery-1.4.2.min.js", "commandclickfix.js"],
+      "run_at": "document_start"
     }
-	]
+  ]
 }
