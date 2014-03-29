@@ -1,6 +1,6 @@
 {
   "name": "Command-Click Fix",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "manifest_version": 2,
   "description": "Makes Command-Click open a new tab on pages that don't do it properly.",
   "icons": { "128": "icon.png" },
